@@ -4,7 +4,7 @@ Module.register("facts",{
 	defaults: {
 		updateInterval: 30,		// how long a fact stays up in seconds
 		fadeSpeed: 2,			// fade out of text in seconds
-		category: 'random',		// pick a category below, or use 'random'
+		category: 'tips',		// pick a category below, or use 'random'
 		facts: { 
 			art: [
 				"Vincent Van Gogh painted The Starry Night during his stay at a psychiatric facility.",
