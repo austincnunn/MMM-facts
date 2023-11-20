@@ -51,7 +51,6 @@ Module.register("facts",{
 			tips: [	
 				"The new telephone number for emergency services is 0118 999 881 999 119 725....... 3. It's so easy to remember.",
 				"Remember to always put any new fire over by the rest of the fire.",
-				
 				"There are more trees on Earth than stars in the Milky Way.",
 				"Uranus used to be named George.",
 				"A teaspoon of a neutron star weighs over a trillion kilograms.",
