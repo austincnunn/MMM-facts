@@ -234,7 +234,7 @@ Module.register("facts",{
 				"DULEEK (n.) - Sudden realisation, as you lie in bed waiting for the alarm to go off, that it should have gone off an hour ago.",
 				"DUNGENESS (n.) - The  uneasy feeling that the plastic handles of the overloaded supermarket carrier bag you are carrying are getting steadily longer.",
 				"DUNTISH (adj.) - Mentally incapacitated by severe hangover.",
-				"ELY (n.) - "The first, tiniest inkling you get that something, somewhere, has gone teribly wrong.",
+				"ELY (n.) - The first, tiniest inkling you get that something, somewhere, has gone teribly wrong.",
 				"FARNHAM (n.) - The feeling you get about four o'clock in the afternoon when you haven't got enough done.",
 				"CRANLEIGH (n.) - A mood of irrational irritation with everyone and everything.",
 				"CROMARTY (n.) - The brittle sludge which clings to the top of ketchup bottles",
@@ -322,7 +322,7 @@ Module.register("facts",{
 		fact.className = "bright medium light";
 		fact.style.textAlign = 'center';
 		fact.style.margin = '0 auto';
-		fact.style.maxWidth = '80%';
+		fact.style.maxWidth = '85%';
 		fact.innerHTML = text;
 
 		wrapper.appendChild(fact);
